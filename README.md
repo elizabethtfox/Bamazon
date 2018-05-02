@@ -32,3 +32,5 @@ Amazon-like storefront with the MySQL.
 ### Examples
 ## Screenshots
 Customer - Buy Product
+
+![bamazoncustomer](https://user-images.githubusercontent.com/32913276/39552680-3c1b52fe-4e38-11e8-80ef-14f380a886bd.png)
