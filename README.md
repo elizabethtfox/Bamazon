@@ -20,6 +20,7 @@ Amazon-like storefront with the MySQL.
 * inquirer
 * mysql
 * cli-table
+* clear
 
 ## How to Run
 * Download repository
@@ -54,3 +55,7 @@ Manager - Add Inventory
 Manager - Add New Product
 
 ![bamazonmanager_addproduct](https://user-images.githubusercontent.com/32913276/39554176-50118d62-4e3f-11e8-98eb-b200c11532a7.png)
+
+Manager - Product list with new product added
+
+![bamazon_updatedlist](https://user-images.githubusercontent.com/32913276/39656064-6d8735da-4fcb-11e8-959c-e7cff0565a05.png)
